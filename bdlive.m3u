@@ -1,1 +1,21 @@
+#EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bjJ2SDjn/T-Sports.png" group-title="sports", t sports
+https://tiger-hub.vercel.app/Live_tv/T-sports.m3u8
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Na
+
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Na
+
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Na
+
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Na
+
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Na
+
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Na
