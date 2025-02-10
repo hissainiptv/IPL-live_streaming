@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bjKXKDj3/5c118e6f7fcc2a5bc165ad77e6cdd74a-5e946fef3c886.jpg" group-title="BANGLA", ETV
+https://http://ekusheyserver.com/etvlivesn.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bjJ2SDjn/T-Sports.png" group-title="sports", t sports
 https://tiger-hub.vercel.app/Live_tv/T-sports.m3u8
