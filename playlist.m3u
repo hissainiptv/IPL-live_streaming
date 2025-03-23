@@ -1,14 +1,22 @@
-EXTINF:-1 tvg-logo="https://i.ibb.co/PvkTLYNv/ipl-2025-opening-match-set-to-feature-kkr-rcb-final-likely-on-may-25.webp" group-title="", IPL CHANNEL 1
+#EXTM3U
+
+EXTINF:-1 tvg-logo="https://slidechef.net/wp-content/uploads/2025/03/IPL-2025-cover-final.jpg" group-title="", IPL CHANNEL 1
 https://bdlivestreaming.xyz/bdix/452356/playlist.m3u8
-tvg-logo="https://i.ibb.co/PvkTLYNv/ipl-2025-opening-match-set-to-feature-kkr-rcb-final-likely-on-may-25.webp" group-title="", IPL CHANNEL 2
+
+EXTINF:-1 tvg-logo="https://slidechef.net/wp-content/uploads/2025/03/IPL-2025-cover-final.jpg" group-title="", IPL CHANNEL 2
 https://bdlivestreaming.xyz/bdix/452371/playlist.m3u8
-tvg-logo="https://i.ibb.co/PvkTLYNv/ipl-2025-opening-match-set-to-feature-kkr-rcb-final-likely-on-may-25.webp" group-title="", IPL CHANNEL 3
+
+EXTINF:-1 tvg-logo="https://slidechef.net/wp-content/uploads/2025/03/IPL-2025-cover-final.jpg" group-title="", IPL CHANNEL 3
 https://bdlivestreaming.xyz/bdix/452375/playlist.m3u8
-tvg-logo="https://i.ibb.co/PvkTLYNv/ipl-2025-opening-match-set-to-feature-kkr-rcb-final-likely-on-may-25.webp" group-title="", IPL CHANNEL 4
+
+EXTINF:-1 tvg-logo="https://slidechef.net/wp-content/uploads/2025/03/IPL-2025-cover-final.jpg" group-title="", IPL CHANNEL 4
 http://ktv.im:8080/live/2025668801/Hossain/75297.m3u8
-tvg-logo="https://i.ibb.co/PvkTLYNv/ipl-2025-opening-match-set-to-feature-kkr-rcb-final-likely-on-may-25.webp" group-title="", IPL CHANNEL 5
+
+EXTINF:-1 tvg-logo="https://slidechef.net/wp-content/uploads/2025/03/IPL-2025-cover-final.jpg" group-title="", IPL CHANNEL 5
 http://ktv.im:8080/live/2025668801/Hossain/521346.m3u8
-tvg-logo="https://i.ibb.co/PvkTLYNv/ipl-2025-opening-match-set-to-feature-kkr-rcb-final-likely-on-may-25.webp" group-title="", IPL CHANNEL 6
+
+EXTINF:-1 tvg-logo="https://slidechef.net/wp-content/uploads/2025/03/IPL-2025-cover-final.jpg" group-title="", IPL CHANNEL 6
 http://ktv.im:8080/live/2025668801/Hossain/521343.m3u8
-tvg-logo="https://i.ibb.co/PvkTLYNv/ipl-2025-opening-match-set-to-feature-kkr-rcb-final-likely-on-may-25.webp" group-title="", IPL CHANNEL 7
+
+EXTINF:-1 tvg-logo="https://slidechef.net/wp-content/uploads/2025/03/IPL-2025-cover-final.jpg" group-title="", IPL CHANNEL 7
 http://ktv.im:8080/live/2025668801/Hossain/521339.m3u8 
