@@ -1,6 +1,9 @@
 #EXTM3U
 
 EXTINF:-1 tvg-logo="https://slidechef.net/wp-content/uploads/2025/03/IPL-2025-cover-final.jpg" group-title="", IPL CHANNEL 1
+http://skyglass.vip:8080/live/76024024668/556675/75297.m3u8
+
+EXTINF:-1 tvg-logo="https://slidechef.net/wp-content/uploads/2025/03/IPL-2025-cover-final.jpg" group-title="", IPL CHANNEL 1
 https://bdlivestreaming.xyz/bdix/452356/playlist.m3u8
 
 EXTINF:-1 tvg-logo="https://slidechef.net/wp-content/uploads/2025/03/IPL-2025-cover-final.jpg" group-title="", IPL CHANNEL 2
